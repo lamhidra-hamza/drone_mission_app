@@ -16,6 +16,8 @@ import com.drone_app.R;
 
 // react-native-maps
 import com.airbnb.android.react.maps.MapsPackage;
+// react-native-vector-icons
+import com.oblador.vectoricons.VectorIconsPackage;
 
 public class PackageList {
   private Application application;
@@ -61,7 +63,8 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
-      new MapsPackage()
+      new MapsPackage(),
+      new VectorIconsPackage()
     ));
   }
 }

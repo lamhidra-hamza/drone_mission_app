@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/hamza/Desktop/drone_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "/home/yns/Desktop/drone_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
             "map": [
                 {
                     "source": "/root/.gradle/caches/transforms-2/files-2.1/bc816d32c364ca1772d4256419cc7383/res/values-hu/values-hu.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "105,213,318,433,517,629,759,835,911,1002,1095,1191,1285,1386,1479,1574,1669,1760,1851,1934,2044,2155,2255,2366,2474,2593,2775,5795",
                         "endColumns": "107,104,114,83,111,129,75,75,90,92,95,93,100,92,94,94,90,90,82,109,110,99,110,107,118,181,102,82",
                         "endOffsets": "208,313,428,512,624,754,830,906,997,1090,1186,1280,1381,1474,1569,1664,1755,1846,1929,2039,2150,2250,2361,2469,2588,2770,2873,5873"
-                    }
-                },
-                {
-                    "source": "/root/.gradle/caches/transforms-2/files-2.1/9359857fae413e45d796e8f535d32e1a/res/values-hu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "235",
-                        "endOffsets": "482"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "4116",
-                        "endColumns": "235",
-                        "endOffsets": "4347"
                     }
                 },
                 {
@@ -69,6 +52,23 @@
                         "startOffsets": "2878,2991,3207,3347,3458,3685,3825,3977,4352,4581,4691,4907,5046,5277,5479,5580,5678",
                         "endColumns": "112,215,139,110,226,139,151,138,228,109,215,138,230,201,100,97,116",
                         "endOffsets": "2986,3202,3342,3453,3680,3820,3972,4111,4576,4686,4902,5041,5272,5474,5575,5673,5790"
+                    }
+                },
+                {
+                    "source": "/root/.gradle/caches/transforms-2/files-2.1/cf3dfa7e4356aa10abfd8532fb1c8341/res/values-hu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "235",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4116",
+                        "endColumns": "235",
+                        "endOffsets": "4347"
                     }
                 }
             ]

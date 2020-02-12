@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/hamza/Desktop/drone_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
+            "outputFile": "/home/yns/Desktop/drone_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "/root/.gradle/caches/transforms-2/files-2.1/3a4f4ceedacad6a743c6670a80f835f8/res/values-uz/values-uz.xml",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/root/.gradle/caches/transforms-2/files-2.1/9359857fae413e45d796e8f535d32e1a/res/values-uz/values.xml",
+                    "source": "/root/.gradle/caches/transforms-2/files-2.1/cf3dfa7e4356aa10abfd8532fb1c8341/res/values-uz/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
